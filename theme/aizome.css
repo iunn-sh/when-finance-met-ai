@@ -133,7 +133,7 @@ section {
 }
 
 section {
-  font-family: 'GenKiGothicTC', Inter, sans-serif;
+  font-family: 'GenKiGothicTC', sans-serif;
   display: flex;
   flex-direction: column;
   color: var(--base);
@@ -311,7 +311,7 @@ section pre::before {
   white-space: normal;
   color: var(--muted);
   font-size: 12px;
-  font-family: 'GenKiGothicTC', Inter, sans-serif;
+  font-family: 'GenKiGothicTC', sans-serif;
   letter-spacing: 0.04em;
 }
 

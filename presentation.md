@@ -14,6 +14,10 @@ title: 當金融遇見AI
 
 Markdownでつくるプレゼンテーション｜水城アオ
 
+<div align="right">
+	<iframe src="https://free.timeanddate.com/clock/ianojvcf/n241/fn12/fs20/tct/pct/tt0/tw0/td2/th2" frameborder="0" width="399" height="27" allowtransparency="true"></iframe>
+</div>
+
 ---
 
 <!-- _class: list -->
