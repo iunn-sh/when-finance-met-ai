@@ -22,7 +22,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
             npm install -g @marp-team/marp-cli@${{ env.MARP_CLI_VERSION }}
-            marp --theme theme/chiaroscuro.css presentation.md --html -o ./public/index.html
+            marp --theme theme/aizome.css presentation.md --html -o ./public/index.html
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4

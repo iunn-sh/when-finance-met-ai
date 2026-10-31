@@ -4,9 +4,9 @@
 當金融遇見AI：法律風險評估與因應策略
 
 * Framework [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
-* Theme [Gissio/chiaroscuro](https://github.com/Gissio/chiaroscuro)
+* Theme [ymho/aizome](https://github.com/ymho/aizome)
 * Font [源起黑體 TC](https://font.emtech.cc/fonts/GenKiGothicTC)
-* Font [FiraMono](https://font.emtech.cc/fonts/FiraMono)
+* Font [JetBrains Mono](https://font.emtech.cc/fonts/JetBrainsMono)
 * Image [Unsplash](https://unsplash.com/)
 
 ```
@@ -17,6 +17,6 @@ brew install marp-cli
 marp --server --html ./
 
 # export
-marp --theme theme/chiaroscuro.css --html presentation.md
+marp --theme theme/aizome.css --html presentation.md
 ```
 
