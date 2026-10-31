@@ -985,8 +985,13 @@ $$
 
 <!-- _class: closing -->
 
-# Thank you
+# Powered By 以上
 
-## 次のスライドを、Markdownから。
+Github [iunn-sh/when-finance-met-ai](https://github.com/iunn-sh/when-finance-met-ai) ![GitHub License](https://img.shields.io/github/license/iunn-sh/when-finance-met-ai?style=flat-square) ![Made by Human](https://img.shields.io/badge/made_by-human-orange?style=flat-square)
 
-水城アオ｜[GitHub](https://github.com/)
+- Framework [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
+- Theme [ymho/aizome](https://github.com/ymho/aizome)
+- Font [源起黑體 TC](https://font.emtech.cc/fonts/GenKiGothicTC)
+- Font [JetBrains Mono](https://font.emtech.cc/fonts/JetBrainsMono)
+- Image [Unsplash](https://unsplash.com/)
+
